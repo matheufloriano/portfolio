@@ -17,7 +17,7 @@ A página apresenta:
 
 Acesse a versão online clicando no link abaixo:
 
-🔗 [[https://SEU_USUARIO.github.io/meu-site/](https://matheufloriano.github.io/portfolio/)]
+🔗 [[(https://matheufloriano.github.io/portfolio/)]
 
 
 ## 📁 Estrutura de Arquivos
