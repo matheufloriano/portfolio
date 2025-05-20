@@ -1,0 +1,36 @@
+body {
+  background-color: #f0f8ff;
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+/* Estilo para o parágrafo principal */
+p {
+  font-size: 18px;
+  text-align: justify;
+}
+
+/* Estilo para o botão */
+button {
+  padding: 10px 15px;
+  background-color: #6a5acd;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #483d8b;
+}
+
+/* Estilo para a mensagem (versículo) */
+#mensagem {
+  font-style: italic;
+  font-weight: bold;
+  background-color: #f5f5dc;
+  border-left: 4px solid #6a5acd;
+  padding: 10px;
+  margin-top: 15px;
+  display: none;
+}
